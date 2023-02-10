@@ -1,12 +1,11 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkgh17&show_icons=true&theme=dark)
+<div align="center">
 
+  📧 [rkgh17@gmail.com](rkgh17@gmail.com)
 
-📧 [rkgh17@gmail.com](rkgh17@gmail.com)
-
-💻 [Tstory](https://rkgh17.tistory.com/), [GitBlog](https://rkgh17.github.io/)
-
-<br>
-
+  💻 [Tstory](https://rkgh17.tistory.com/), [GitBlog](https://rkgh17.github.io/)
+  
+</div>
+  
 <div align="center">
 
   <h1> 📚 STACKS </h1>
@@ -35,5 +34,16 @@
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
   <br>
 
-  
 </div>
+
+<br><br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rkgh17&show_icons=true&count_private=true&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkgh17&hide_border=true&layout=compact"/>
+
+</div>
+
+  
