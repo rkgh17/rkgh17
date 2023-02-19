@@ -6,7 +6,7 @@
 
   ### 📧 [Email](rkgh17@gmail.com)
 
-  ### 💻 [Tstory](https://rkgh17.tistory.com/)   [GitBlog](https://rkgh17.github.io/)
+  ### 💻 [Tistory](https://rkgh17.tistory.com/)   [GitBlog](https://rkgh17.github.io/)
   
   <br>
   
