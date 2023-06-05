@@ -1,15 +1,12 @@
 <div align="center">
 
-
-
   ### 📁 [Project Repo](https://github.com/rkgh17/project)
 
   ### 📧 [Email](rkgh17@gmail.com)
 
   ### 💻 [Tistory](https://rkgh17.tistory.com/)   [~~GitBlog~~](https://rkgh17.github.io/)
-  
-  <br>
-  
+ 
+ 
 </div>
   
 <div align="center">
